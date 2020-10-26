@@ -76,12 +76,6 @@ namespace Lap09_MusicStore
 
         private void MenuItemListView_ItemClick(object sender, ItemClickEventArgs e)
         {
-            var music = (Music)e.ClickedItem;
-            MyMediaElement.Source = new Uri(this.BaseUri, music.AudioFile);
-        }
-
-        private void SoundGridView_Drop(object sender, ItemClickEventArgs e)
-        {
             var menuItem = (MenuItem)e.ClickedItem;
 
             CategoryTextBlock.Text = menuItem.Category.ToString();
@@ -89,7 +83,7 @@ namespace Lap09_MusicStore
             BackButton.Visibility = Visibility.Visible;
         }
 
-        private async void SoundGridView_DragOver(object sender, DragEventArgs e)
+        private async void SoundGridView_Drop(object sender, DragEventArgs e)
         {
             if (e.DataView.Contains(StandardDataFormats.StorageItems))
             {
@@ -113,7 +107,7 @@ namespace Lap09_MusicStore
             }
         }
 
-        private void SoundGridView_ItemClick(object sender, DragEventArgs e)
+        private void SoundGridView_DragOver(object sender, DragEventArgs e)
         {
             e.AcceptedOperation = DataPackageOperation.Copy;
 
@@ -123,5 +117,10 @@ namespace Lap09_MusicStore
             e.DragUIOverride.IsGlyphVisible = true;
         }
 
+        private void SoundGridView_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            var music = (Music)e.ClickedItem;
+            MyMediaElement.Source = new Uri(this.BaseUri, music.AudioFile);
+        }
     }
 }

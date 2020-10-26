@@ -45,7 +45,7 @@
                     <ListView.ItemTemplate>
                     <DataTemplate                           >
                         <StackPanel x:ConnectionId='5' Orientation="Horizontal">
-                            <Image x:ConnectionId='6'                            Height="60" Width="60" Margin="-10,10,0,10"/>
+                            <Image x:ConnectionId='6'                            Height="35" Width="35" Margin="-10,10,0,10"/>
                             <TextBlock x:ConnectionId='7'                          FontSize="18" Margin="10,0,0,0" VerticalAlignment="Center"/>
                         </StackPanel>
                     </DataTemplate>
@@ -68,9 +68,9 @@
                               IsItemClickEnabled="True"
                               AllowDrop="True"
                                                        
-                                                               
-                                                           
-                                                                 >
+                                                                                        
+                                                                 
+                                                           >
                         <GridView.ItemTemplate>
                             <DataTemplate                        >
                                 <Image x:ConnectionId='12' Name="MyImage" Height="112" Width="101"                            />

@@ -9,7 +9,7 @@ namespace Lap09_MusicStore.Model
 {
     public class Music
     {
-        public String Name { get; set; }
+        public string Name { get; set; }
         public MusicCategory Category { get; set; }
         public string AudioFile { get; set; }
         public string ImageFile { get; set; }

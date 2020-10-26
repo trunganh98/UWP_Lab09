@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N9rPQ9kMz6MPIOeYDbzqF1Hz3TkxW1N+TdFx8XU5ACTWFWL2cQpg2GRRNidcZ3PFduD7h7Q9KrnS8wEqmwcbXA==",
+  "dgSpecHash": "J5n+rStShmsKpEJRCiDkjqwkmO+MHevpY9fjGWB5SCnIpbG0DhbwRIVROOGjwL+pZDnKxs6InR2DKLeViKW2YA==",
   "success": true,
-  "projectFilePath": "D:\\SEM3\\Lap09_MusicStore\\Lap09_MusicStore\\Lap09_MusicStore.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Documents\\GitHub\\UWP_Lab09\\Lap09_MusicStore\\Lap09_MusicStore\\Lap09_MusicStore.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.8-rel-28605-00\\microsoft.net.native.compiler.2.2.8-rel-28605-00.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.10\\microsoft.net.uwpcoreruntimesdk.2.2.10.nupkg.sha512",

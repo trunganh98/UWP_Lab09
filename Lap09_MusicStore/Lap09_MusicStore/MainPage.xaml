@@ -45,7 +45,7 @@
                     <ListView.ItemTemplate>
                     <DataTemplate x:DataType="data:MenuItem">
                         <StackPanel Orientation="Horizontal">
-                            <Image Source="{x:Bind IconFile}" Height="60" Width="60" Margin="-10,10,0,10"/>
+                            <Image Source="{x:Bind IconFile}" Height="35" Width="35" Margin="-10,10,0,10"/>
                             <TextBlock Text="{x:Bind Category}" FontSize="18" Margin="10,0,0,0" VerticalAlignment="Center"/>
                         </StackPanel>
                     </DataTemplate>
@@ -68,9 +68,9 @@
                               IsItemClickEnabled="True"
                               AllowDrop="True"
                               Drop="SoundGridView_Drop"
-                              DragOver="SoundGridView_DragOver"
-                              ItemsSource="{x:Bind Musics}"
-                              ItemClick="SoundGridView_ItemClick">
+                              DragOver="SoundGridView_DragOver"                         
+                              ItemClick="SoundGridView_ItemClick"
+                              ItemsSource="{x:Bind Musics}">
                         <GridView.ItemTemplate>
                             <DataTemplate x:DataType="data:Music">
                                 <Image Name="MyImage" Height="112" Width="101" Source="{x:Bind ImageFile}"/>

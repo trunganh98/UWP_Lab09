@@ -35,21 +35,21 @@ namespace Lap09_MusicStore.Model
 
         private static List<Music> getMusics()
         {
-            var sounds = new List<Music>();
+            var musics = new List<Music>();
 
-            sounds.Add(new Music("Cow", MusicCategory.VietNam));
-            sounds.Add(new Music("Cat", MusicCategory.VietNam));
+            musics.Add(new Music("Cow", MusicCategory.VietNam));
+            musics.Add(new Music("Cat", MusicCategory.VietNam));
 
-            sounds.Add(new Music("Gun", MusicCategory.Japan));
-            sounds.Add(new Music("Spring", MusicCategory.Japan));
+            musics.Add(new Music("Gun", MusicCategory.Japan));
+            musics.Add(new Music("Spring", MusicCategory.Japan));
 
-            sounds.Add(new Music("Clock", MusicCategory.USUK));
-            sounds.Add(new Music("LOL", MusicCategory.USUK));
+            musics.Add(new Music("Clock", MusicCategory.USUK));
+            musics.Add(new Music("LOL", MusicCategory.USUK));
 
-            sounds.Add(new Music("Ship", MusicCategory.Korean));
-            sounds.Add(new Music("Siren", MusicCategory.Korean));
+            musics.Add(new Music("Ship", MusicCategory.Korean));
+            musics.Add(new Music("Siren", MusicCategory.Korean));
 
-            return sounds;
+            return musics;
         }
     }
 }

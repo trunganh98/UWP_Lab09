@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SEM3\\Lap09_MusicStore\\Lap09_MusicStore\\Lap09_MusicStore.csproj": {}
+    "C:\\Users\\ASUS\\Documents\\GitHub\\UWP_Lab09\\Lap09_MusicStore\\Lap09_MusicStore\\Lap09_MusicStore.csproj": {}
   },
   "projects": {
-    "D:\\SEM3\\Lap09_MusicStore\\Lap09_MusicStore\\Lap09_MusicStore.csproj": {
+    "C:\\Users\\ASUS\\Documents\\GitHub\\UWP_Lab09\\Lap09_MusicStore\\Lap09_MusicStore\\Lap09_MusicStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SEM3\\Lap09_MusicStore\\Lap09_MusicStore\\Lap09_MusicStore.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\GitHub\\UWP_Lab09\\Lap09_MusicStore\\Lap09_MusicStore\\Lap09_MusicStore.csproj",
         "projectName": "Lap09_MusicStore",
-        "projectPath": "D:\\SEM3\\Lap09_MusicStore\\Lap09_MusicStore\\Lap09_MusicStore.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\GitHub\\UWP_Lab09\\Lap09_MusicStore\\Lap09_MusicStore\\Lap09_MusicStore.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\SEM3\\Lap09_MusicStore\\Lap09_MusicStore\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\GitHub\\UWP_Lab09\\Lap09_MusicStore\\Lap09_MusicStore\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

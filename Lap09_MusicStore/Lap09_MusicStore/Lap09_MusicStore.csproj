@@ -141,6 +141,10 @@
     <Content Include="Assets\Audio\USUK\Numb.mp3" />
     <Content Include="Assets\Audio\VietNam\BacPhan.mp3" />
     <Content Include="Assets\Audio\VietNam\YeuLaiTuDau.mp3" />
+    <Content Include="Assets\Icons\animals.png" />
+    <Content Include="Assets\Icons\cartoon.png" />
+    <Content Include="Assets\Icons\taunt.png" />
+    <Content Include="Assets\Icons\warning.png" />
     <Content Include="Assets\images\Japan\BeTheOne.png" />
     <Content Include="Assets\images\Japan\MasayumeChasing.png" />
     <Content Include="Assets\images\Korean\AsIfIt_sYourLast.png" />

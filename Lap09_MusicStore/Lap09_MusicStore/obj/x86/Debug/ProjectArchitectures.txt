@@ -1,0 +1,1 @@
+C:\Users\ASUS\Documents\GitHub\UWP_Lab09\Lap09_MusicStore\Lap09_MusicStore\Lap09_MusicStore.csproj;x86
