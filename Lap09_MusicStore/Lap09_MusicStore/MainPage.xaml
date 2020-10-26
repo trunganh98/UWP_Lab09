@@ -73,7 +73,7 @@
                               ItemsSource="{x:Bind Musics}">
                         <GridView.ItemTemplate>
                             <DataTemplate x:DataType="data:Music">
-                                <Image Name="MyImage" Height="112" Width="101" Source="{x:Bind ImageFile}"/>
+                                <Image Name="MyImage" Height="200" Width="250" Source="{x:Bind ImageFile}"/>
                             </DataTemplate>
                         </GridView.ItemTemplate>
 

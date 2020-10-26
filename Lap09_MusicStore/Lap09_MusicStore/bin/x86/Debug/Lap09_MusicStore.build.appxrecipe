@@ -70,30 +70,6 @@
     <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Lab09\Lap09_MusicStore\Lap09_MusicStore\Assets\Icons\warning.png">
       <PackagePath>Assets\Icons\warning.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Lab09\Lap09_MusicStore\Lap09_MusicStore\Assets\images\Japan\BeTheOne.png">
-      <PackagePath>Assets\images\Japan\BeTheOne.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Lab09\Lap09_MusicStore\Lap09_MusicStore\Assets\images\Japan\MasayumeChasing.png">
-      <PackagePath>Assets\images\Japan\MasayumeChasing.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Lab09\Lap09_MusicStore\Lap09_MusicStore\Assets\images\Korean\AsIfIt_sYourLast.png">
-      <PackagePath>Assets\images\Korean\AsIfIt_sYourLast.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Lab09\Lap09_MusicStore\Lap09_MusicStore\Assets\images\Korean\BecauseI%27mStupid.png">
-      <PackagePath>Assets\images\Korean\BecauseI%27mStupid.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Lab09\Lap09_MusicStore\Lap09_MusicStore\Assets\images\USUK\EverythingINeed.png">
-      <PackagePath>Assets\images\USUK\EverythingINeed.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Lab09\Lap09_MusicStore\Lap09_MusicStore\Assets\images\USUK\Numb.png">
-      <PackagePath>Assets\images\USUK\Numb.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Lab09\Lap09_MusicStore\Lap09_MusicStore\Assets\images\VietNam\BacPhan.png">
-      <PackagePath>Assets\images\VietNam\BacPhan.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Lab09\Lap09_MusicStore\Lap09_MusicStore\Assets\images\VietNam\YeuLaiTuDau.png">
-      <PackagePath>Assets\images\VietNam\YeuLaiTuDau.png</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Lab09\Lap09_MusicStore\Lap09_MusicStore\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
@@ -120,6 +96,30 @@
     <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Lab09\Lap09_MusicStore\Lap09_MusicStore\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Lab09\Lap09_MusicStore\Lap09_MusicStore\Assets\images\Japan\BeTheOne.jfif">
+      <PackagePath>Assets\images\Japan\BeTheOne.jfif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Lab09\Lap09_MusicStore\Lap09_MusicStore\Assets\images\Japan\MasayumeChasing.jfif">
+      <PackagePath>Assets\images\Japan\MasayumeChasing.jfif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Lab09\Lap09_MusicStore\Lap09_MusicStore\Assets\images\Korean\AsIfIt_sYourLast.jfif">
+      <PackagePath>Assets\images\Korean\AsIfIt_sYourLast.jfif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Lab09\Lap09_MusicStore\Lap09_MusicStore\Assets\images\Korean\BecauseI%27mStupid.jfif">
+      <PackagePath>Assets\images\Korean\BecauseI%27mStupid.jfif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Lab09\Lap09_MusicStore\Lap09_MusicStore\Assets\images\USUK\EverythingINeed.jfif">
+      <PackagePath>Assets\images\USUK\EverythingINeed.jfif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Lab09\Lap09_MusicStore\Lap09_MusicStore\Assets\images\USUK\Numb.jfif">
+      <PackagePath>Assets\images\USUK\Numb.jfif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Lab09\Lap09_MusicStore\Lap09_MusicStore\Assets\images\VietNam\BacPhan.jfif">
+      <PackagePath>Assets\images\VietNam\BacPhan.jfif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Lab09\Lap09_MusicStore\Lap09_MusicStore\Assets\images\VietNam\YeuLaiTuDau.jfif">
+      <PackagePath>Assets\images\VietNam\YeuLaiTuDau.jfif</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Lab09\Lap09_MusicStore\Lap09_MusicStore\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>

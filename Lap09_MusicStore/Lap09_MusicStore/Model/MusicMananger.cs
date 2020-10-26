@@ -37,17 +37,17 @@ namespace Lap09_MusicStore.Model
         {
             var musics = new List<Music>();
 
-            musics.Add(new Music("Cow", MusicCategory.VietNam));
-            musics.Add(new Music("Cat", MusicCategory.VietNam));
+            musics.Add(new Music("BacPhan", MusicCategory.VietNam));
+            musics.Add(new Music("YeuLaiTuDau", MusicCategory.VietNam));
 
-            musics.Add(new Music("Gun", MusicCategory.Japan));
-            musics.Add(new Music("Spring", MusicCategory.Japan));
+            musics.Add(new Music("BeTheOne", MusicCategory.Japan));
+            musics.Add(new Music("MasayumeChasing", MusicCategory.Japan));
 
-            musics.Add(new Music("Clock", MusicCategory.USUK));
-            musics.Add(new Music("LOL", MusicCategory.USUK));
+            musics.Add(new Music("EverythingINeed", MusicCategory.USUK));
+            musics.Add(new Music("Numb", MusicCategory.USUK));
 
-            musics.Add(new Music("Ship", MusicCategory.Korean));
-            musics.Add(new Music("Siren", MusicCategory.Korean));
+            musics.Add(new Music("AsIfIt_sYourLast", MusicCategory.Korean));
+            musics.Add(new Music("BecauseI'mStupid", MusicCategory.Korean));
 
             return musics;
         }
